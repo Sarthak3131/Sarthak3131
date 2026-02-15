@@ -1,8 +1,8 @@
 <h1 align="center">Sarthak Srivastava</h1>
-<h3 align="center">Full-Stack Engineer • DSA Specialist • Competitive Programmer</h3>
+<h3 align="center">Competitive Programmer • Full-Stack Product Engineer • Backend-Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Scalable+System+Builder;Data+Structures+%26+Algorithms;Backend+Engineering;Performance-Oriented+Development;Continuous+Learning+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Algorithmic+Thinking;Scalable+Backend+Systems;Full-Stack+Product+Development;Performance+Optimization;Continuous+Engineering+Growth" />
 </p>
 
 <p align="center">
@@ -11,33 +11,59 @@
   <a href="https://leetcode.com/u/sarthaksrivastava189/">LeetCode</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header"/>
-</p>
+---
+
+# 🧠 Engineering Philosophy
+
+I combine competitive programming discipline with full-stack product execution.
+
+My engineering mindset focuses on:
+- Solving problems with optimized time & space complexity
+- Designing backend systems with structured architecture
+- Building scalable full-stack products
+- Writing modular, maintainable, production-ready code
+- Thinking in systems, not just features
+
+Goal: Grow into a high-impact backend & systems engineer.
 
 ---
 
-# 🧠 Engineering Profile
+# 🏆 Competitive Programming Dominance
 
-Computer Science undergraduate focused on building structured, scalable, and performance-driven systems.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
 
-I approach development with:
+### Problem Solving Metrics
 
-• Clean architectural thinking  
-• Data Structure-driven problem solving  
-• Backend-first system structuring  
-• Optimization & logical clarity  
-• Real-world algorithm integration  
+- 80+ LeetCode problems solved
+- Consistent practice across Easy & Medium
+- Strengthening Hard-level exposure
+- Improved debugging speed & pattern recognition
 
-My goal is to evolve into a high-impact backend & systems engineer.
+### Patterns & Concepts Covered
+
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Recursion & Backtracking
+- Stack & Queue problems
+- Binary Search
+- Basic Graph Traversals
+- Hashing techniques
+- Time/Space complexity optimization
+
+### How Competitive Programming Improves My Engineering
+
+- Faster debugging under constraints
+- Stronger edge-case detection
+- Performance-aware backend logic
+- Structured problem decomposition
+- Confidence in technical interviews
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=3"/>
-</p>
-
-# 📊 Engineering Activity
+# 📊 Engineering Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -49,7 +75,7 @@ My goal is to evolve into a high-impact backend & systems engineer.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -60,142 +86,128 @@ My goal is to evolve into a high-impact backend & systems engineer.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,php,python,cpp"/>
 </p>
 
-Core Focus Areas:
-- Backend architecture
-- Database modeling
-- Algorithm optimization
-- System modularization
-- API design principles
+### Backend Focus
+- REST API design
+- Authentication & Authorization
+- Database schema modeling
+- Modular architecture
+- Algorithm integration
+
+### Product Engineering Skills
+- Role-based systems
+- CRUD-driven admin dashboards
+- State-managed frontends
+- Secure backend logic
+- Scalable feature structuring
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3"/>
-</p>
+# 🚀 Full-Stack Product Engineering
 
-# 🚀 High-Impact Projects
+## 🟢 Digital Farmers Market (MERN)
 
-<table>
-<tr>
-<td width="50%">
+A scalable marketplace platform enabling direct farmer-to-consumer transactions.
 
-### 🟢 Digital Farmers Market  
-Scalable MERN-based marketplace enabling direct farmer-to-consumer transactions.
+### Engineering Contributions
 
-Engineering Impact:
-• Designed REST API architecture  
-• Implemented secure JWT-based authentication  
-• Structured optimized MongoDB schema  
-• Built responsive React frontend  
-• Enabled role-based access control  
+- Designed RESTful API architecture using Express
+- Implemented JWT-based secure authentication
+- Structured optimized MongoDB schema
+- Built responsive React frontend with clean state flow
+- Enabled role-based access (Farmer / Consumer)
 
-</td>
-<td width="50%">
+### Product Thinking
 
-### 🏥 MedQueue  
-DSA-driven hospital queue management system.
-
-Engineering Impact:
-• Implemented Circular Queue logic  
-• Optimized patient token allocation  
-• Managed concurrent walk-in + online flows  
-• Structured MySQL relational schema  
-• Integrated algorithm into real-world workflow  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🟣 Interactive Quiz Management System  
-Secure full-stack quiz platform.
-
-Engineering Impact:
-• Built modular Flask backend  
-• Designed normalized relational schema  
-• Implemented role-based access control  
-• Structured CRUD system for admin panel  
-
-</td>
-<td width="50%">
-
-### 📰 360° News Feedback Platform  
-Multi-perspective structured feedback system.
-
-Engineering Impact:
-• Designed organized MySQL schema  
-• Implemented backend-driven sentiment tracking  
-• Structured scalable feedback categorization  
-
-</td>
-</tr>
-</table>
+- Structured user flows
+- Designed intuitive listing & order flow
+- Considered scalability in schema design
 
 ---
 
-# 🏆 Competitive Programming
+## 🏥 MedQueue – DSA Integrated System
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
+Hospital queue management system integrating Circular Queue algorithm.
 
-Problem-Solving Development:
+### Engineering Contributions
 
-• 80+ problems solved  
-• Strong base in Arrays, Strings, Recursion  
-• Strengthening Medium problem consistency  
-• Improving time & space complexity awareness  
-• Developing pattern recognition skills  
+- Implemented Circular Queue for token management
+- Optimized allocation logic
+- Handled concurrent walk-in + online flows
+- Structured relational MySQL schema
+- Reduced logical redundancy in queue operations
+
+### Engineering Impact
+
+Applied DSA in real-world workflow rather than isolated practice.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=3"/>
-</p>
+## 🟣 Interactive Quiz Management System
+
+Full-stack secure quiz platform using Flask + SQLAlchemy.
+
+### Engineering Contributions
+
+- Designed normalized relational schema
+- Built modular Flask backend
+- Implemented session-based authentication
+- Created structured CRUD admin dashboard
+- Applied separation of concerns in backend logic
+
+---
+
+## 📰 360° News Feedback Platform
+
+Backend-driven structured feedback system.
+
+### Engineering Contributions
+
+- Designed MySQL schema for feedback categorization
+- Implemented backend-based sentiment storage
+- Structured scalable data handling logic
+
+---
 
 # 🧠 System Design Journey
 
-Currently Studying:
+Currently strengthening:
 
-• RESTful API structuring  
-• Database indexing strategies  
-• Authentication & Authorization patterns  
-• Backend modular architecture  
-• Scalability fundamentals  
+- RESTful API structuring
+- Database indexing strategies
+- Authentication flows
+- Backend modular architecture
+- Scalability fundamentals
 
-Upcoming Focus:
+Upcoming focus:
 
-• Caching strategies  
-• Load balancing basics  
-• Distributed systems introduction  
-• Fault tolerance concepts  
-
----
-
-# 🔭 Currently Building
-
-• Deepening DSA pattern mastery  
-• Improving backend scalability thinking  
-• Strengthening debugging under constraints  
-• Designing cleaner modular architectures  
+- Caching strategies
+- Load balancing basics
+- Distributed system introduction
+- Designing reliable systems
 
 ---
 
-# 🎯 Engineering Strengths
+# 🔭 Currently Improving
 
-• Logical structuring of backend systems  
-• Clean and maintainable code practices  
-• Data-driven problem solving  
-• Practical DSA integration  
-• Strong analytical reasoning  
+- Medium & Hard DSA pattern mastery
+- Backend optimization techniques
+- Code modularization discipline
+- Clean architecture implementation
+- Time complexity optimization awareness
+
+---
+
+# 🎯 Core Engineering Strengths
+
+- Logical problem decomposition
+- Performance-oriented thinking
+- Clean and structured backend design
+- Practical DSA integration
+- Strong debugging & reasoning skills
+- Product-oriented feature structuring
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Consistency builds engineering depth.</b>
+  <b>Algorithmic depth + Product execution = Strong engineering foundation.</b>
 </p>
