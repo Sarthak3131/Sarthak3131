@@ -62,7 +62,7 @@ Goal: Grow into a high-impact backend & systems engineer.
 - Confidence in technical interviews
 
 ---
-# 📊 Engineering Activity Dashboard
+# Engineering Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true" height="170"/>
