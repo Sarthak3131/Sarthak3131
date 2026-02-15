@@ -70,7 +70,7 @@ Goal: Grow into a high-impact backend & systems engineer.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthak3131&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Sarthak3131&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true"/>
 </p>
 
 <p align="center">
