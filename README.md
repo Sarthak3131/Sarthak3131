@@ -71,7 +71,7 @@ Goal: Grow into a high-impact backend & systems engineer.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
