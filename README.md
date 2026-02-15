@@ -65,12 +65,12 @@ Goal: Grow into a high-impact backend & systems engineer.
 # 📊 Engineering Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarthak3131&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthak3131&theme=github_dark" />
 </p>
 
 <p align="center">
