@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Algorithmic+Thinking;Scalable+Backend+Systems;Full-Stack+Product+Development;Performance+Optimization;Continuous+Engineering+Growth" />
 </p>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/sarthak300">LinkedIn</a> •
   <a href="mailto:sarthaksrivastava189@gmail.com">Email</a> •
