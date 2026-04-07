@@ -1,6 +1,7 @@
 <h1 align="center">Sarthak Srivastava</h1>
 <h3 align="center">Competitive Programmer • Full-Stack Product Engineer • Backend-Focused</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Algorithmic+Thinking;Scalable+Backend+Systems;Full-Stack+Product+Development;Performance+Optimization;Continuous+Engineering+Growth" />
 </p>
