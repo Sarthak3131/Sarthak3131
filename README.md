@@ -160,7 +160,11 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
 ---
 
-## Competitive Programming to Production Thinking
+## Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
 
 - **Sliding Window** -> efficient stream/range computations and moving aggregates.
 - **Two Pointers** -> clean dual-index traversal for merge-like API data workflows.
