@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1220,40:1A4DFF,100:23C4FF&section=header" alt="Header banner"/>
+  <img src="./assets/glass-hero-shell.svg" alt="Glass hero shell"/>
 </p>
 
-<h1 align="center">✦ <span style="color:#23C4FF;">Sarthak Srivastava</span> ✦</h1>
+<h1 align="center"><span style="color:#23C4FF;">Sarthak Srivastava</span></h1>
 <h3 align="center">Full-Stack Engineer focused on building reliable backend systems and clean product experiences</h3>
 
 <p align="center">
@@ -21,36 +21,42 @@ Designing systems where correctness, clarity, and reliability come first.
 </p>
 
 <p align="center">
-Live portfolio showcasing full-stack projects and system-focused implementations
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3800&pause=1200&color=23C4FF&center=true&vCenter=true&width=900&lines=Designing+clean+backend+flows+for+real-world+products;Turning+DSA+thinking+into+reliable+system+logic;Improving+API+quality%2C+correctness%2C+and+maintainability" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="160" alt="Compact GitHub stats"/>
 </p>
 
 <br/>
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🧠 System Thinking
 
 <p align="center">
-A pseudo-3D map of API, service, and data layers representing system-first engineering.
+Visual architecture snapshot for API, service, and data-layer interaction.
 </p>
 
 <p align="center">
   <img src="./assets/profile-3d-banner.svg" alt="Pseudo 3D backend systems banner"/>
 </p>
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🚀 Highlighted Work
 
-Focused case studies showing practical engineering decisions and trade-offs.
+Focused case studies showing practical engineering decisions and system design trade-offs.
+
+<p align="center">
+  <img src="./assets/glass-mini-shell.svg" alt="Glass mini shell"/>
+</p>
 
 ### Digital Farmers Market (MERN)
 Direct farmer-to-consumer marketplace with role-aware product and order workflows.
@@ -63,7 +69,6 @@ Direct farmer-to-consumer marketplace with role-aware product and order workflow
 - Designed REST APIs in Express with role-aware middleware.
 - Built authentication using JWT and protected route checks.
 - Structured MongoDB around users, listings, and order lifecycle.
-- Implemented focused React flows for listing, browsing, and ordering.
 
 **Key Decisions**
 - Chose role-based authorization at API layer to keep permission logic centralized.
@@ -79,6 +84,10 @@ This project strengthened my understanding of backend correctness and system des
 **Stack**
 Node.js, Express, MongoDB, React, JWT
 
+<p align="center">
+  <img src="./assets/glass-mini-shell.svg" alt="Glass mini shell"/>
+</p>
+
 ### MedQueue - DSA-Integrated Queue System
 Queue and appointment management system using circular-queue-style token flow for clinical operations.
 
@@ -90,7 +99,6 @@ Queue and appointment management system using circular-queue-style token flow fo
 - Applied circular queue logic to model token progression and avoid ad-hoc sequencing.
 - Structured booking and queue operations with explicit status transitions.
 - Modeled MySQL data for appointments, queue records, and doctor slots.
-- Validated state before transitions to protect queue correctness.
 
 **Key Decisions**
 - Treated queue status as a state machine to avoid invalid transitions.
@@ -106,6 +114,10 @@ This project strengthened my understanding of backend correctness and system des
 **Stack**
 PHP, MySQL, JavaScript, DSA (Circular Queue)
 
+<p align="center">
+  <img src="./assets/glass-mini-shell.svg" alt="Glass mini shell"/>
+</p>
+
 ### Interactive Quiz Management System
 Secure quiz platform with modular backend structure and admin-driven content operations.
 
@@ -117,7 +129,6 @@ Secure quiz platform with modular backend structure and admin-driven content ope
 - Built Flask backend with SQLAlchemy models for quizzes, questions, attempts, and users.
 - Used session-based authentication for controlled user/admin workflows.
 - Organized modular CRUD flows to separate route handlers from data logic.
-- Applied normalized schema to keep updates and queries consistent.
 
 **Key Decisions**
 - Chose normalized relational design for data consistency across quiz entities.
@@ -133,7 +144,11 @@ This project strengthened my understanding of backend correctness and system des
 **Stack**
 Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## ⚙️ Backend Engineering Playbook
 
@@ -157,18 +172,26 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 - Prefer simple, index-friendly access patterns over complex nested operations.
 - Measure likely hotspots early: list filtering, repeated lookups, and state scans.
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🧩 Engineering Mindset
 
-- Design full-stack systems with backend correctness as the foundation
+- Design full-stack systems with backend correctness as the foundation.
 - Keep interfaces explicit so teams can move faster with fewer regressions.
 - Treat edge cases as core requirements, not late-stage fixes.
 - Prefer maintainable architecture over clever short-term implementation.
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
 
-## Competitive Programming
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
+
+## 🧠 Competitive Programming
 
 <p align="center"><b>Problem Solving Progress</b></p>
 
@@ -185,7 +208,11 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
 Competitive programming helps me reason under constraints, detect edge cases early, and choose time/space-efficient backend paths.
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🛠 Technical Stack (Full-Stack Focus)
 
@@ -200,7 +227,11 @@ I focus on backend-heavy full-stack development where system design and product 
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mysql,mongodb,react,js,python,cpp,git,github,postman,vscode" alt="Tech stack icons"/>
 </p>
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🎯 Current Focus
 
@@ -213,7 +244,11 @@ I focus on backend-heavy full-stack development where system design and product 
 - Caching basics and reliability-first backend patterns.
 - Stronger hard-level DSA pattern application to production-style scenarios.
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 📊 Engineering Activity
 
@@ -222,7 +257,11 @@ I focus on backend-heavy full-stack development where system design and product 
   <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=radical&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
-<hr style="border: 0.5px solid #1f2937;"/>
+<br/>
+
+<p align="center">
+  <img src="./assets/glass-section-shell.svg" alt="Glass section shell"/>
+</p>
 
 ## 🤝 Contact
 
@@ -233,5 +272,5 @@ Open to full-stack engineering roles where backend systems, data design, and rel
 - Coding profile: <a href="https://leetcode.com/u/sarthaksrivastava189/">leetcode.com/u/sarthaksrivastava189</a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:334155,100:0F172A&section=footer" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1220,45:1A4DFF,100:23C4FF&section=footer" alt="Footer banner"/>
 </p>
