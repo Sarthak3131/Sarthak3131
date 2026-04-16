@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1220,40:1A4DFF,100:23C4FF&section=header" alt="Header banner"/>
 </p>
 
-<h1 align="center">✦ Sarthak Srivastava ✦</h1>
+<h1 align="center">✦ <span style="color:#23C4FF;">Sarthak Srivastava</span> ✦</h1>
 <h3 align="center">Full-Stack Engineer focused on building reliable backend systems and clean product experiences</h3>
 
 <p align="center">
@@ -32,21 +32,25 @@ Live portfolio showcasing full-stack projects and system-focused implementations
   <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
 </p>
 
----
+<br/>
+
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🧠 System Thinking
 
 <p align="center">
-Visual architecture snapshot
+A pseudo-3D map of API, service, and data layers representing system-first engineering.
 </p>
 
 <p align="center">
   <img src="./assets/profile-3d-banner.svg" alt="Pseudo 3D backend systems banner"/>
 </p>
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🚀 Highlighted Work
+
+Focused case studies showing practical engineering decisions and trade-offs.
 
 ### Digital Farmers Market (MERN)
 Direct farmer-to-consumer marketplace with role-aware product and order workflows.
@@ -129,7 +133,7 @@ This project strengthened my understanding of backend correctness and system des
 **Stack**
 Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## ⚙️ Backend Engineering Playbook
 
@@ -153,7 +157,7 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 - Prefer simple, index-friendly access patterns over complex nested operations.
 - Measure likely hotspots early: list filtering, repeated lookups, and state scans.
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🧩 Engineering Mindset
 
@@ -162,9 +166,11 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 - Treat edge cases as core requirements, not late-stage fixes.
 - Prefer maintainable architecture over clever short-term implementation.
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## Competitive Programming
+
+<p align="center"><b>Problem Solving Progress</b></p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=highcontrast&font=Fira%20Code&ext=contest" alt="LeetCode live stats"/>
@@ -179,7 +185,7 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
 Competitive programming helps me reason under constraints, detect edge cases early, and choose time/space-efficient backend paths.
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🛠 Technical Stack (Full-Stack Focus)
 
@@ -194,7 +200,7 @@ I focus on backend-heavy full-stack development where system design and product 
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mysql,mongodb,react,js,python,cpp,git,github,postman,vscode" alt="Tech stack icons"/>
 </p>
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🎯 Current Focus
 
@@ -207,7 +213,7 @@ I focus on backend-heavy full-stack development where system design and product 
 - Caching basics and reliability-first backend patterns.
 - Stronger hard-level DSA pattern application to production-style scenarios.
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 📊 Engineering Activity
 
@@ -216,7 +222,7 @@ I focus on backend-heavy full-stack development where system design and product 
   <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=radical&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
----
+<hr style="border: 0.5px solid #1f2937;"/>
 
 ## 🤝 Contact
 
