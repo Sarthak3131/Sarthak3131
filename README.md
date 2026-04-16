@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B1220,100:23C4FF&section=header" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:1E293B,100:334155&section=header" alt="Header banner"/>
 </p>
 
 <h1 align="center">Sarthak Srivastava</h1>
@@ -29,8 +29,10 @@ Live portfolio showcasing full-stack projects and system-focused implementations
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0B1220&title_color=23C4FF&text_color=EAF2FF&icon_color=7AF0B5&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
 </p>
+
+## 🧠 System Thinking Visualization
 
 <p align="center">
 System-map style pseudo-3D banner representing API, service, and data-layer flow.
@@ -41,6 +43,8 @@ System-map style pseudo-3D banner representing API, service, and data-layer flow
 </p>
 
 ---
+
+## 🚀 Highlighted Work
 
 ## Featured Engineering Work
 
@@ -163,7 +167,7 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 ## Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=highcontrast&font=Fira%20Code&ext=contest" alt="LeetCode live stats"/>
 </p>
 
 - **Sliding Window** -> efficient stream/range computations and moving aggregates.
@@ -208,8 +212,8 @@ I focus on backend-heavy full-stack development where system design and product 
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0B1220&title_color=23C4FF&text_color=EAF2FF&hide_border=true" height="165" alt="Top languages"/>
-  <img src="https://streak-stats.demolab.com?user=Sarthak3131&background=0B1220&ring=23C4FF&fire=7AF0B5&currStreakLabel=23C4FF&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
 ---
@@ -223,5 +227,5 @@ Open to full-stack engineering roles where backend systems, data design, and rel
 - Coding profile: <a href="https://leetcode.com/u/sarthaksrivastava189/">leetcode.com/u/sarthaksrivastava189</a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:23C4FF,100:0B1220&section=footer" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:334155,100:0F172A&section=footer" alt="Footer banner"/>
 </p>
