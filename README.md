@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:1E293B,100:334155&section=header" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1220,40:1A4DFF,100:23C4FF&section=header" alt="Header banner"/>
 </p>
 
-<h1 align="center">Sarthak Srivastava</h1>
+<h1 align="center">✦ Sarthak Srivastava ✦</h1>
 <h3 align="center">Full-Stack Engineer focused on building reliable backend systems and clean product experiences</h3>
 
 <p align="center">
@@ -29,13 +29,15 @@ Live portfolio showcasing full-stack projects and system-focused implementations
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="150" alt="Compact GitHub stats"/>
 </p>
 
-## 🧠 System Thinking Visualization
+---
+
+## 🧠 System Thinking
 
 <p align="center">
-System-map style pseudo-3D banner representing API, service, and data-layer flow.
+Visual architecture snapshot
 </p>
 
 <p align="center">
@@ -45,8 +47,6 @@ System-map style pseudo-3D banner representing API, service, and data-layer flow
 ---
 
 ## 🚀 Highlighted Work
-
-## Featured Engineering Work
 
 ### Digital Farmers Market (MERN)
 Direct farmer-to-consumer marketplace with role-aware product and order workflows.
@@ -131,7 +131,7 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
 ---
 
-## Backend Engineering Playbook
+## ⚙️ Backend Engineering Playbook
 
 ### API Design
 - Define endpoint purpose and request/response shape before implementation.
@@ -155,7 +155,7 @@ Flask, SQLAlchemy, SQLite/MySQL, HTML, CSS, JavaScript
 
 ---
 
-## Engineering Mindset
+## 🧩 Engineering Mindset
 
 - Design full-stack systems with backend correctness as the foundation
 - Keep interfaces explicit so teams can move faster with fewer regressions.
@@ -181,7 +181,7 @@ Competitive programming helps me reason under constraints, detect edge cases ear
 
 ---
 
-## Technical Stack (Full-Stack Focus)
+## 🛠 Technical Stack (Full-Stack Focus)
 
 I focus on backend-heavy full-stack development where system design and product experience work together.
 
@@ -196,7 +196,7 @@ I focus on backend-heavy full-stack development where system design and product 
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 **Building now**
 - Backend-heavy product features with cleaner API contracts and state handling.
@@ -209,16 +209,16 @@ I focus on backend-heavy full-stack development where system design and product 
 
 ---
 
-## Engineering Activity
+## 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-  <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthak3131&theme=radical&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
 ---
 
-## Contact
+## 🤝 Contact
 
 Open to full-stack engineering roles where backend systems, data design, and reliability are core to the product.
 
