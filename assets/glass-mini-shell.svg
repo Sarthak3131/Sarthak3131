@@ -1,0 +1,11 @@
+<svg width="1200" height="84" viewBox="0 0 1200 84" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Glass mini shell">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1200" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1A32"/>
+      <stop offset="1" stop-color="#112643"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="84" rx="18" fill="url(#mbg)"/>
+  <rect x="16" y="12" width="1168" height="60" rx="14" fill="#FFFFFF" fill-opacity="0.09"/>
+  <rect x="16.6" y="12.6" width="1166.8" height="58.8" rx="13.4" stroke="#66D8FF" stroke-opacity="0.33" stroke-width="1.2"/>
+</svg>
