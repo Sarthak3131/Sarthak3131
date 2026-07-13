@@ -38,7 +38,7 @@
 <br/><br/>
 
 <!-- Timeline -->
-<img src="assets/svg/experience-timeline.svg" width="100%" alt="Experience and Education Timeline" />
+<img src="assets/svg/experience-timeline.svg?v=2" width="100%" alt="Experience and Education Timeline" />
 
 <br/><br/>
 
