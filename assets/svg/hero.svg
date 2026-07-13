@@ -6,39 +6,39 @@
     <!-- Animated Brand Gradients -->
     <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF">
-        <animate attributeName="stop-color" values="#FFFFFF;#FDF5E6;#FFFFFF" dur="8s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#FFFFFF;#FFFFFF;#FFFFFF" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#B8B09D">
-        <animate attributeName="stop-color" values="#B8B09D;#8A8170;#B8B09D" dur="8s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#E2E8F0">
+        <animate attributeName="stop-color" values="#E2E8F0;#94A3B8;#E2E8F0" dur="8s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
     <!-- Flowing Accent Line Gradient -->
     <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D4AF37">
-        <animate attributeName="stop-color" values="#D4AF37;#AA7C11;#D4AF37" dur="6s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#D4AF37;#FFD700" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#AA7C11">
-        <animate attributeName="stop-color" values="#AA7C11;#8B6508;#AA7C11" dur="6s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#D4AF37">
+        <animate attributeName="stop-color" values="#D4AF37;#A67C00;#D4AF37" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
     <!-- Pulsing Pill Border -->
     <linearGradient id="pill-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(212, 175, 55, 0.6)">
-        <animate attributeName="stop-color" values="rgba(212, 175, 55,0.6);rgba(139, 101, 8,0.6);rgba(212, 175, 55,0.6)" dur="10s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="rgba(255, 215, 0, 0.6)">
+        <animate attributeName="stop-color" values="rgba(255, 215, 0,0.6);rgba(166, 124, 0,0.6);rgba(255, 215, 0,0.6)" dur="10s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="rgba(170, 124, 17, 0.1)" />
+      <stop offset="100%" stop-color="rgba(212, 175, 55, 0.1)" />
     </linearGradient>
 
     <!-- Mesh Gradients for background -->
     <radialGradient id="blob1" cx="30%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#AA7C11" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#AA7C11" stop-opacity="0" />
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="blob2" cx="70%" cy="70%" r="70%">
-      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.1" />
-      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0" />
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0" />
     </radialGradient>
     <filter id="mesh-blur" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="60" />
@@ -66,7 +66,7 @@
     <!-- Top Pill -->
     <g transform="translate(0, -80)">
       <rect x="-100" y="-16" width="200" height="32" rx="16" fill="#111111" stroke="url(#pill-border)" stroke-width="1.5" />
-      <circle cx="-80" cy="0" r="4" fill="#D4AF37">
+      <circle cx="-80" cy="0" r="4" fill="#FFD700">
         <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite" />
         <animate attributeName="fill-opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
       </circle>
@@ -77,8 +77,8 @@
     <text x="0" y="-10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="800" fill="url(#text-grad)" letter-spacing="-1.5">Sarthak Srivastava</text>
 
     <!-- Subtitle -->
-    <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#B8B09D" letter-spacing="0.5">Architecting reliable systems, clean APIs, and</text>
-    <text x="0" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#B8B09D" letter-spacing="0.5">scalable backend infrastructure.</text>
+    <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#E2E8F0" letter-spacing="0.5">Architecting reliable systems, clean APIs, and</text>
+    <text x="0" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#E2E8F0" letter-spacing="0.5">scalable backend infrastructure.</text>
 
     <!-- Subtle separator or accent line -->
     <rect x="-40" y="110" width="80" height="2" fill="url(#accent-grad)" rx="1">

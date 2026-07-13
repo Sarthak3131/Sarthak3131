@@ -2,8 +2,8 @@
   <defs>
     <!-- Brand Gradients -->
     <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4AF37" />
-      <stop offset="100%" stop-color="#AA7C11" />
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#D4AF37" />
     </linearGradient>
     
     <!-- Outer Glow -->

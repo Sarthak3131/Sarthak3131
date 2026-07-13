@@ -10,12 +10,12 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
     </linearGradient>
     <linearGradient id="icon-grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#D4AF37" />
-      <stop offset="100%" stop-color="#AA7C11" />
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#D4AF37" />
     </linearGradient>
     <linearGradient id="icon-grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8B6508" />
-      <stop offset="100%" stop-color="#AA7C11" />
+      <stop offset="0%" stop-color="#A67C00" />
+      <stop offset="100%" stop-color="#D4AF37" />
     </linearGradient>
     <filter id="shadow">
       <feDropShadow dx="0" dy="12" stdDeviation="24" flood-color="#000000" flood-opacity="0.5" />
@@ -42,7 +42,7 @@
     <rect width="900" height="260" rx="16" fill="url(#glass)" stroke="url(#border)" stroke-width="1.5" />
     
     <!-- Title -->
-    <text x="40" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#D4AF37" font-weight="600" letter-spacing="2">ENGINEERING PHILOSOPHY</text>
+    <text x="40" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#FFD700" font-weight="600" letter-spacing="2">ENGINEERING PHILOSOPHY</text>
     <text x="40" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" fill="#EDEDED" font-weight="700">Designing for reliability and scale.</text>
 
     <!-- Divider -->
@@ -57,8 +57,8 @@
       <path d="M12,14 C12,11 28,11 28,14 C28,17 12,17 12,14 Z M12,20 C12,23 28,23 28,20 M12,26 C12,29 28,29 28,26 M12,14 V26 M28,14 V26" fill="none" stroke="url(#icon-grad-1)" stroke-width="1.5" stroke-linejoin="round" />
       
       <text x="56" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" fill="#EDEDED" font-weight="600">System Design First</text>
-      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">Architecture mapped to</text>
-      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">real domain constraints.</text>
+      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">Architecture mapped to</text>
+      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">real domain constraints.</text>
     </g>
 
     <!-- Pillar 2 -->
@@ -69,8 +69,8 @@
       <path d="M20,10 L12,14 V20 C12,25 15,29 20,32 C25,29 28,25 28,20 V14 Z M16,22 L19,25 L24,18" fill="none" stroke="url(#icon-grad-2)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
       
       <text x="56" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" fill="#EDEDED" font-weight="600">Backend Correctness</text>
-      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">Controlled state transitions</text>
-      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">over loose flag updates.</text>
+      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">Controlled state transitions</text>
+      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">over loose flag updates.</text>
     </g>
 
     <!-- Pillar 3 -->
@@ -81,8 +81,8 @@
       <path d="M20,12 A4,4 0 1,1 20,11.99 M20,16 V24 M12,28 A4,4 0 1,1 12,27.99 M28,28 A4,4 0 1,1 28,27.99 M20,24 L14,26 M20,24 L26,26" fill="none" stroke="url(#icon-grad-1)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
       
       <text x="56" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" fill="#EDEDED" font-weight="600">Explicit API Boundaries</text>
-      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">Clear contracts to reduce</text>
-      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#B8B09D">frontend ambiguity.</text>
+      <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">Clear contracts to reduce</text>
+      <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#E2E8F0">frontend ambiguity.</text>
     </g>
 
   </g>
