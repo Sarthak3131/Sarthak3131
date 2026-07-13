@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="glass-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.01" />
+    </linearGradient>
+    <linearGradient id="glass-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#23C4FF" />
+      <stop offset="100%" stop-color="#1A4DFF" />
+    </linearGradient>
+    
+    <filter id="shadow-soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="32" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Global Base Background -->
+  <rect width="1000" height="500" fill="#0A0A0A" />
+
+  <!-- Main Glass Card -->
+  <g transform="translate(40, 40)" filter="url(#shadow-soft)">
+    <rect width="920" height="420" rx="20" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1.5" />
+    
+    <!-- Header Area -->
+    <rect x="40" y="40" width="6" height="24" rx="3" fill="url(#accent-cyan)" />
+    <text x="60" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="700" fill="#EDEDED">PPSP ERP System</text>
+    <text x="60" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#23C4FF" letter-spacing="1">PRODUCTION SCHEDULING &amp; RESOURCE PLANNING</text>
+
+    <!-- Left Column: Content (x=60, width=400) -->
+    <g transform="translate(60, 120)">
+      <!-- Overview -->
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#71717A" letter-spacing="1">OVERVIEW</text>
+      <text x="0" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">A centralized web-based platform managing</text>
+      <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">inventory, BOM administration, and production cycles.</text>
+
+      <!-- Challenge -->
+      <text x="0" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#71717A" letter-spacing="1">CHALLENGE</text>
+      <text x="0" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Enforcing strict departmental data isolation while</text>
+      <text x="0" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">maintaining a continuous, synchronized order flow.</text>
+
+      <!-- Engineering Decisions -->
+      <text x="0" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#71717A" letter-spacing="1">ENGINEERING DECISIONS</text>
+      <text x="0" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Implemented role-aware API boundaries with Laravel</text>
+      <text x="0" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Sanctum, decoupling the UI via React.js and Vite.</text>
+
+      <!-- Trade-offs -->
+      <text x="0" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#71717A" letter-spacing="1">TRADE-OFFS</text>
+      <text x="0" y="262" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Chose a modular monolith over microservices to</text>
+      <text x="0" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">reduce infrastructure overhead while keeping speed.</text>
+    </g>
+
+    <!-- Tech Stack Pills -->
+    <g transform="translate(60, 360)">
+      <rect x="0" y="0" width="60" height="24" rx="12" fill="url(#accent-cyan)" fill-opacity="0.1" stroke="url(#accent-cyan)" stroke-width="1" />
+      <text x="30" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#23C4FF" text-anchor="middle">Laravel</text>
+
+      <rect x="70" y="0" width="70" height="24" rx="12" fill="#1A4DFF" fill-opacity="0.1" stroke="#1A4DFF" stroke-width="1" />
+      <text x="105" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#79A2FF" text-anchor="middle">React.js</text>
+
+      <rect x="150" y="0" width="56" height="24" rx="12" fill="#7928CA" fill-opacity="0.1" stroke="#7928CA" stroke-width="1" />
+      <text x="178" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#D892FF" text-anchor="middle">MySQL</text>
+
+      <rect x="216" y="0" width="68" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1" />
+      <text x="250" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#EDEDED" text-anchor="middle">Sanctum</text>
+    </g>
+
+    <!-- Right Column Placeholder for Animated Diagram (Milestone 10) -->
+    <!-- X=500 to 900, Y=60 to 400 -->
+    <g id="animated-architecture" transform="translate(500, 60)">
+      <!-- Placeholder grid and frame -->
+      <rect width="380" height="340" rx="12" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+    </g>
+  </g>
+</svg>
