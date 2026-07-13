@@ -14,7 +14,7 @@ This document serves as the single source of truth for the Sarthak Srivastava Gi
   - Subdued: `#0A0A0A`
   - Card/Surface: `#111111`
   - Glass: `rgba(255, 255, 255, 0.03)` to `rgba(255, 255, 255, 0.08)`
-  - Border (Subtle): `rgba(255, 255, 255, 0.1)`
+  - Border (Subtle): `stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2"` (Outer panel highlight)
 - **Typography**
   - Primary: `#EDEDED`
   - Secondary: `#A1A1AA`
@@ -47,7 +47,8 @@ This document serves as the single source of truth for the Sarthak Srivastava Gi
 
 ## 4. Visual Effects
 - **Border Radius**: 
-  - Cards: `12px`
+  - Base SVG Panels: `24px` (Adaptive Dark Mode)
+  - Cards: `20px`
   - Inner Elements / Buttons: `8px`
   - Pills: `99px`
 - **Glow Values (feGaussianBlur)**:
@@ -68,6 +69,8 @@ This document serves as the single source of truth for the Sarthak Srivastava Gi
 - **Easing Curves**:
   - `keySplines="0.25 0.1 0.25 1.0"` (Smooth Ease-in-out)
   - `calcMode="spline"`
+- **Performance Rules**:
+  - All SMIL animations (`<animateMotion>`, `<animateTransform>`) must use mathematically staggered negative `begin` offsets (e.g., `begin="-0.3s"`) to prevent synchronous CPU spikes and paint stuttering on initial render.
 
 ## SVG Workflow Rule
 Always copy `<defs>` from `assets/svg/defs/template.svg` into any new SVG to ensure consistent gradients, filters, and animations.
