@@ -20,9 +20,9 @@ This document serves as the single source of truth for the Sarthak Srivastava Gi
   - Secondary: `#A1A1AA`
   - Muted: `#71717A`
 - **Accents (Liquid Gradients)**
-  - Cyan: `#23C4FF`
-  - Deep Blue: `#1A4DFF`
-  - Soft Purple: `#7928CA`
+  - Cyan: `#FDE047`
+  - Deep Blue: `#D97706`
+  - Soft Purple: `#B45309`
 
 ## 2. Spacing Scale (8px Grid)
 - `4px` (xxs)

@@ -2,13 +2,13 @@
   <defs>
     <!-- Brand Gradients -->
     <linearGradient id="cyan-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#23C4FF" />
-      <stop offset="100%" stop-color="#1A4DFF" />
+      <stop offset="0%" stop-color="#FDE047" />
+      <stop offset="100%" stop-color="#D97706" />
     </linearGradient>
     
     <linearGradient id="purple-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7928CA" />
-      <stop offset="100%" stop-color="#1A4DFF" />
+      <stop offset="0%" stop-color="#B45309" />
+      <stop offset="100%" stop-color="#D97706" />
     </linearGradient>
 
     <!-- Glassmorphism Border Gradient -->
@@ -23,7 +23,7 @@
     </filter>
 
     <filter id="shadow-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#23C4FF" flood-opacity="0.5" />
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#FDE047" flood-opacity="0.5" />
     </filter>
 
     <!-- Blurs -->
