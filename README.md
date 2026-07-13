@@ -15,13 +15,13 @@
   <a href="https://sarthaksrivastava.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=about.me&logoColor=FFD700&labelColor=0A0A0A&color=D4AF37" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/sarthak-srivastava-00b84828b" target="_blank">
+  <a href="https://www.linkedin.com/in/sarthak300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0A0A0A&color=D4AF37" alt="LinkedIn" />
   </a>
-  <a href="mailto:sarthaksri3131@gmail.com">
+  <a href="mailto:sarthaksrivastava189@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0A0A0A&color=D4AF37" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/Sarthak_3131/" target="_blank">
+  <a href="https://leetcode.com/u/sarthaksrivastava189/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=0A0A0A&color=D4AF37" alt="LeetCode" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🧑‍💻 About Me & Tech Stack
+## 🧑‍💻 About Me
 
 <img align="right" alt="typing-cat" height="200" src="https://github.com/user-attachments/assets/3e65226b-c49f-4815-bded-e4958cdfca7b">
 
@@ -47,53 +47,60 @@ I am a highly motivated **Software Engineer** specializing in building reliable,
 
 <br clear="all">
 
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,docker,aws,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 Real-Time GitHub & LeetCode Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&icon_color=FFD700&border_color=D4AF37&border_radius=10" width="47%" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&border_color=D4AF37&border_radius=10" width="47%" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0A0A0A&color=FFD700&line=D4AF37&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="GitHub Activity Graph" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&icon_color=FFD700&border_color=D4AF37&border_radius=10" width="47%" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&border_color=D4AF37&border_radius=10" width="47%" alt="Top Languages" />
-</p>
+---
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sarthak_3131/">
-    <img src="https://leetcard.jacoblin.cool/Sarthak_3131?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0A0A0A&color=FFD700&line=D4AF37&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="GitHub Activity Graph" />
-</p>
-
+<div align="center">
+  <p align="center">
+    <a href="https://leetcode.com/u/sarthaksrivastava189/">
+      <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ## 🚀 Featured Engineering Case Studies
 
-<div align="center">
-
 <a href="https://github.com/Sarthak3131/PPSP-ERP-SYSTEM">
   <img src="assets/svg/projects/ppsp-erp.svg" width="100%" alt="PPSP ERP Case Study" />
 </a>
+
 <br/><br/>
+
 <a href="https://sarthaksrivastava.netlify.app/">
   <img src="assets/svg/projects/portfolio.svg" width="100%" alt="Portfolio Case Study" />
 </a>
+
 <br/><br/>
+
 <a href="https://github.com/Sarthak3131/Digital-Farmers-Market">
   <img src="assets/svg/projects/farmers-market.svg" width="100%" alt="Digital Farmers Market Case Study" />
 </a>
-
-</div>
 
 ---
 
