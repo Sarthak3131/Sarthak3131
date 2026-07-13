@@ -109,6 +109,29 @@
       <path d="M80,210 L190,250" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2" />
       <path d="M190,210 L190,250" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2" />
       <path d="M300,210 L190,250" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2" />
+
+      <!-- Animated Data Packets -->
+      <circle r="3" fill="#1A4DFF" filter="url(#shadow-soft)">
+        <animateMotion dur="2s" repeatCount="indefinite" path="M190,50 L190,100" />
+      </circle>
+      <circle r="3" fill="#D892FF" filter="url(#shadow-soft)">
+        <animateMotion dur="1.5s" repeatCount="indefinite" path="M190,140 L80,180" />
+      </circle>
+      <circle r="3" fill="#D892FF" filter="url(#shadow-soft)">
+        <animateMotion dur="1.7s" repeatCount="indefinite" path="M190,140 L190,180" />
+      </circle>
+      <circle r="3" fill="#D892FF" filter="url(#shadow-soft)">
+        <animateMotion dur="1.4s" repeatCount="indefinite" path="M190,140 L300,180" />
+      </circle>
+      <circle r="3" fill="#4ADE80" filter="url(#shadow-soft)">
+        <animateMotion dur="1.2s" repeatCount="indefinite" path="M80,210 L190,250" />
+      </circle>
+      <circle r="3" fill="#4ADE80" filter="url(#shadow-soft)">
+        <animateMotion dur="1.5s" repeatCount="indefinite" path="M190,210 L190,250" />
+      </circle>
+      <circle r="3" fill="#4ADE80" filter="url(#shadow-soft)">
+        <animateMotion dur="1.3s" repeatCount="indefinite" path="M300,210 L190,250" />
+      </circle>
     </g>
   </g>
 </svg>

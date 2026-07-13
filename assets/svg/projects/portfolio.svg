@@ -86,8 +86,23 @@
       </g>
 
       <!-- Connection Lines -->
-      <path d="M140,140 L240,60" fill="none" stroke="#7928CA" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="4,4" />
-      <path d="M140,160 L240,240" fill="none" stroke="#7928CA" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="4,4" />
+      <path id="path-github" d="M140,140 L240,60" fill="none" stroke="#7928CA" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="4,4" />
+      <path id="path-leetcode" d="M140,160 L240,240" fill="none" stroke="#7928CA" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="4,4" />
+
+      <!-- Animated Data Packets -->
+      <circle r="3" fill="#D892FF" filter="url(#shadow-soft)">
+        <animateMotion dur="2s" repeatCount="indefinite" path="M140,140 L240,60" />
+      </circle>
+      <circle r="3" fill="#D892FF" filter="url(#shadow-soft)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M140,160 L240,240" />
+      </circle>
+      <!-- Return paths -->
+      <circle r="3" fill="#23C4FF" filter="url(#shadow-soft)">
+        <animateMotion dur="1.8s" repeatCount="indefinite" path="M240,60 L140,140" />
+      </circle>
+      <circle r="3" fill="#23C4FF" filter="url(#shadow-soft)">
+        <animateMotion dur="2.2s" repeatCount="indefinite" path="M240,240 L140,160" />
+      </circle>
     </g>
   </g>
 </svg>
