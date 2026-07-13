@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" width="160" height="48">
+  <defs>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#23C4FF" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#1A4DFF" stop-opacity="0.1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" />
+    </filter>
+  </defs>
+
+  <rect width="158" height="46" x="1" y="1" rx="23" fill="#0A0A0A" />
+  
+  <!-- Subtle back glow -->
+  <rect width="160" height="48" rx="24" fill="url(#border)" filter="url(#glow)" opacity="0.3" />
+  
+  <rect width="158" height="46" x="1" y="1" rx="23" fill="url(#glass)" stroke="url(#border)" stroke-width="1.5" />
+  
+  <!-- Globe/Portfolio Icon -->
+  <path d="M42,24 c0,-5.5 4.5,-10 10,-10 c5.5,0 10,4.5 10,10 c0,5.5 -4.5,10 -10,10 c-5.5,0 -10,-4.5 -10,-10 z M42,24 h20 M52,14 c-2.5,0 -4.5,4.5 -4.5,10 c0,5.5 2,10 4.5,10 c2.5,0 4.5,-4.5 4.5,-10 c0,-5.5 -2,-10 -4.5,-10 z" fill="none" stroke="#EDEDED" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <text x="70" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#EDEDED" font-weight="500">Portfolio</text>
+</svg>
