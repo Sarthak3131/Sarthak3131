@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <!-- Brand Gradients -->
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#23C4FF" />
+      <stop offset="100%" stop-color="#1A4DFF" />
+    </linearGradient>
+    
+    <!-- Outer Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="120" height="120" rx="24" fill="#0A0A0A" />
+
+  <!-- Monogram Graphic -->
+  <g transform="translate(60, 60)" filter="url(#glow)">
+    <!-- Sleek S Monogram -->
+    <path d="M 12,-16 C 12,-24 4,-26 0,-26 C -6,-26 -12,-22 -12,-16 C -12,-8 12,-4 12,8 C 12,18 2,24 -2,24 C -10,24 -14,18 -14,12" 
+          fill="none" 
+          stroke="url(#brand-grad)" 
+          stroke-width="8" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" />
+  </g>
+</svg>
