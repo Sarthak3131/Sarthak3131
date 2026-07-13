@@ -31,7 +31,7 @@
     </filter>
   </defs>
 
-  <rect width="1000" height="400" fill="#0A0A0A" />
+  <rect width="1000" height="400" rx="24" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
 
   <!-- Section Title -->
   <text x="50" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#EDEDED">Experience &amp; Education</text>

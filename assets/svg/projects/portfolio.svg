@@ -19,7 +19,7 @@
     </filter>
   </defs>
 
-  <rect width="1000" height="480" fill="#0A0A0A" />
+  <rect width="1000" height="480" rx="24" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
 
   <g transform="translate(40, 40)" filter="url(#shadow-soft)">
     <rect width="920" height="400" rx="20" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1.5" />
