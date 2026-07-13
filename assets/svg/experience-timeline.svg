@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="1000" height="350">
   <defs>
     <linearGradient id="glass-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.04" />
@@ -31,76 +31,53 @@
     </filter>
   </defs>
 
-  <rect width="1000" height="480" rx="24" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
+  <rect width="1000" height="350" rx="24" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
 
   <!-- Section Title -->
-  <text x="50" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#EDEDED">Engineering Experience</text>
+  <text x="50" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#EDEDED">Education &amp; Development</text>
   <line x1="50" y1="70" x2="950" y2="70" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1" />
 
   <g transform="translate(50, 100)">
     <!-- Vertical Timeline Line -->
-    <rect x="19" y="10" width="2" height="340" fill="url(#line-grad)" />
+    <rect x="19" y="10" width="2" height="200" fill="url(#line-grad)" />
 
     <!-- Animated Timeline Pulse -->
     <circle r="2" fill="#FFFFFF" filter="url(#glow-node)">
-      <animateMotion dur="5s" begin="-2.4s" repeatCount="indefinite" path="M20,10 L20,350" keyPoints="0;1" keyTimes="0;1" calcMode="linear" />
+      <animateMotion dur="5s" begin="-2.4s" repeatCount="indefinite" path="M20,10 L20,210" keyPoints="0;1" keyTimes="0;1" calcMode="linear" />
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="5s" repeatCount="indefinite" />
     </circle>
 
-    <!-- Node 1: Platform Engineer -->
+    <!-- Node 1: Independent Developer -->
     <g transform="translate(0, 20)">
       <!-- Node Dot -->
       <circle cx="20" cy="20" r="6" fill="#FDE047" filter="url(#glow-node)" />
       <circle cx="20" cy="20" r="3" fill="#0A0A0A" />
       
       <!-- Date -->
-      <text x="50" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FDE047" letter-spacing="1">SEP 2024 — PRESENT</text>
+      <text x="50" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FDE047" letter-spacing="1">PRESENT</text>
       
       <!-- Content Card -->
       <g transform="translate(50, 40)" filter="url(#shadow-soft)">
         <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" repeatCount="indefinite" />
-        <rect width="800" height="90" rx="12" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1" />
-        <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#EDEDED">Software Engineer, Infrastructure</text>
-        <text x="315" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#71717A">@ Global FinTech</text>
+        <rect width="800" height="70" rx="12" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1" />
+        <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#EDEDED">Independent Software Developer</text>
         
-        <text x="24" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Architected distributed event-driven microservices processing 2M+ daily transactions.</text>
-        <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Reduced API latency by 45% through robust Redis caching and DB index optimization.</text>
+        <text x="24" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Architecting full-stack web applications, RESTful APIs, and complex UI systems.</text>
       </g>
     </g>
 
-    <!-- Node 2: Full Stack -->
+    <!-- Node 2: LPU -->
     <g transform="translate(0, 160)">
       <!-- Node Dot -->
       <circle cx="20" cy="20" r="6" fill="#D97706" filter="url(#glow-node)" />
       <circle cx="20" cy="20" r="3" fill="#0A0A0A" />
       
       <!-- Date -->
-      <text x="50" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#D97706" letter-spacing="1">JAN 2024 — SEP 2024</text>
+      <text x="50" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#D97706" letter-spacing="1">JUL 2023 — PRESENT</text>
       
       <!-- Content Card -->
       <g transform="translate(50, 40)" filter="url(#shadow-soft)">
         <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" begin="-2s" repeatCount="indefinite" />
-        <rect width="800" height="90" rx="12" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1" />
-        <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#EDEDED">Full-Stack Developer</text>
-        <text x="210" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#71717A">@ MedQueue Systems</text>
-        
-        <text x="24" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Migrated legacy monolith to a containerized infrastructure on AWS ECS.</text>
-        <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#A1A1AA">Built robust REST API contracts serving 50k+ active users with 99.9% uptime.</text>
-      </g>
-    </g>
-
-    <!-- Node 3: LPU -->
-    <g transform="translate(0, 300)">
-      <!-- Node Dot -->
-      <circle cx="20" cy="20" r="6" fill="#B45309" filter="url(#glow-node)" />
-      <circle cx="20" cy="20" r="3" fill="#0A0A0A" />
-      
-      <!-- Date -->
-      <text x="50" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#B45309" letter-spacing="1">JUL 2023 — PRESENT</text>
-      
-      <!-- Content Card -->
-      <g transform="translate(50, 40)" filter="url(#shadow-soft)">
-        <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" begin="-4s" repeatCount="indefinite" />
         <rect width="800" height="70" rx="12" fill="url(#glass-bg)" stroke="url(#glass-border)" stroke-width="1" />
         <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#EDEDED">B.Tech Computer Science &amp; Engineering</text>
         <text x="360" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#71717A">@ Lovely Professional University</text>
