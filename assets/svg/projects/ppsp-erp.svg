@@ -84,16 +84,16 @@
 
       <!-- Animated Data Packets -->
       <circle r="3" fill="#23C4FF" filter="url(#shadow-soft)">
-        <animateMotion dur="2s" repeatCount="indefinite" path="M190,40 L190,100" />
+        <animateMotion dur="2s" begin="-0.4s" repeatCount="indefinite" path="M190,40 L190,100" />
       </circle>
       <circle r="3" fill="#7928CA" filter="url(#shadow-soft)">
-        <animateMotion dur="2.5s" repeatCount="indefinite" path="M190,140 L190,200" />
+        <animateMotion dur="2.5s" begin="-1.1s" repeatCount="indefinite" path="M190,140 L190,200" />
       </circle>
       <circle r="3" fill="#1A4DFF" filter="url(#shadow-soft)">
-        <animateMotion dur="1.5s" repeatCount="indefinite" path="M150,240 L90,280" />
+        <animateMotion dur="1.5s" begin="-0.7s" repeatCount="indefinite" path="M150,240 L90,280" />
       </circle>
       <circle r="3" fill="#1A4DFF" filter="url(#shadow-soft)">
-        <animateMotion dur="1.8s" repeatCount="indefinite" path="M230,240 L290,280" />
+        <animateMotion dur="1.8s" begin="-1.5s" repeatCount="indefinite" path="M230,240 L290,280" />
       </circle>
 
       <!-- Nodes -->
