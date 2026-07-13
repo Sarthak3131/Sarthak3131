@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="assets/svg/brand-identity.svg" width="100%" alt="Sarthak Srivastava - Software Engineer" />
+<img src="assets/svg/hero.svg" width="100%" alt="Sarthak Srivastava - Software Engineer" />
 
 <br/>
 

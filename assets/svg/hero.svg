@@ -70,15 +70,15 @@
         <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite" />
         <animate attributeName="fill-opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="10" y="4" font-size="12" fill="#EDEDED" font-weight="500" letter-spacing="1">SOFTWARE ENGINEER</text>
+      <text x="10" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#EDEDED" font-weight="500" letter-spacing="1">SOFTWARE ENGINEER</text>
     </g>
 
     <!-- Main Title -->
-    <text x="0" y="-10" font-size="64" font-weight="800" fill="url(#text-grad)" letter-spacing="-1.5">Sarthak Srivastava</text>
+    <text x="0" y="-10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="800" fill="url(#text-grad)" letter-spacing="-1.5">Sarthak Srivastava</text>
 
     <!-- Subtitle -->
-    <text x="0" y="40" font-size="20" font-weight="400" fill="#A1A1AA" letter-spacing="0.5">Architecting reliable systems, clean APIs, and</text>
-    <text x="0" y="70" font-size="20" font-weight="400" fill="#A1A1AA" letter-spacing="0.5">scalable backend infrastructure.</text>
+    <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#A1A1AA" letter-spacing="0.5">Architecting reliable systems, clean APIs, and</text>
+    <text x="0" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#A1A1AA" letter-spacing="0.5">scalable backend infrastructure.</text>
 
     <!-- Subtle separator or accent line -->
     <rect x="-40" y="110" width="80" height="2" fill="url(#accent-grad)" rx="1">
