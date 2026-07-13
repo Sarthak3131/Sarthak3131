@@ -61,12 +61,15 @@ I am a highly motivated **Software Engineer** specializing in building reliable,
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&icon_color=FFD700&border_color=D4AF37&border_radius=10" width="47%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak3131&show_icons=true&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&icon_color=FFD700&border_color=D4AF37&border_radius=10" width="47%" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&border_color=D4AF37&border_radius=10" width="47%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sarthak3131&layout=compact&bg_color=0A0A0A&title_color=FFD700&text_color=E2E8F0&border_color=D4AF37&border_radius=10" width="47%" alt="Top Languages" />
   </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0A0A0A&color=FFD700&line=D4AF37&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="GitHub Activity Graph" />
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Sarthak3131/Sarthak3131/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </p>
 </div>
 
@@ -77,7 +80,7 @@ I am a highly motivated **Software Engineer** specializing in building reliable,
 <div align="center">
   <p align="center">
     <a href="https://leetcode.com/u/sarthaksrivastava189/">
-      <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/sarthaksrivastava189?theme=dark&font=Inter&ext=heatmap" width="70%" alt="LeetCode Stats" />
     </a>
   </p>
 </div>
