@@ -13,7 +13,7 @@
     </filter>
   </defs>
 
-  <rect width="158" height="46" x="1" y="1" rx="23" fill="#0A0A0A" />
+  <rect width="158" height="46" x="1" y="1" rx="23" fill="transparent" />
   
   <!-- Subtle back glow -->
   <rect width="160" height="48" rx="24" fill="url(#border)" filter="url(#glow)" opacity="0.3" />

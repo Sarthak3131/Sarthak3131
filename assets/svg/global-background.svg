@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
   <defs>
     <!-- Dark Mode Base -->
-    <rect id="base" width="1200" height="400" fill="#0A0A0A" />
+    <rect id="base" width="1200" height="400" fill="transparent" />
 
     <!-- Ambient Mesh Gradients -->
     <radialGradient id="blob1" cx="30%" cy="30%" r="70%">

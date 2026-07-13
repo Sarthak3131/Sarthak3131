@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="assets/svg/hero.svg?v=4" width="100%" alt="Sarthak Srivastava - Software Engineer" />
+<img src="assets/svg/hero.svg?v=5" width="100%" alt="Sarthak Srivastava - Software Engineer" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/><br/><br/>
 
 <!-- Engineering Philosophy -->
-<img src="assets/svg/philosophy.svg?v=4" width="100%" alt="Engineering Philosophy" />
+<img src="assets/svg/philosophy.svg?v=5" width="100%" alt="Engineering Philosophy" />
 
 <br/><br/>
 
@@ -38,7 +38,7 @@
 <br/><br/>
 
 <!-- Timeline -->
-<img src="assets/svg/experience-timeline.svg?v=4" width="100%" alt="Experience and Education Timeline" />
+<img src="assets/svg/experience-timeline.svg?v=5" width="100%" alt="Experience and Education Timeline" />
 
 <br/><br/>
 

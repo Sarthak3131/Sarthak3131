@@ -21,7 +21,7 @@
   </defs>
 
   <!-- Global Base Background -->
-  <rect width="1000" height="500" rx="24" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
+  <rect width="1000" height="500" rx="24" fill="transparent" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2" />
 
   <!-- Main Glass Card -->
   <g transform="translate(40, 40)" filter="url(#shadow-soft)">

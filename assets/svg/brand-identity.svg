@@ -17,7 +17,7 @@
   </defs>
 
   <!-- Background Base -->
-  <rect width="120" height="120" rx="24" fill="#0A0A0A" />
+  <rect width="120" height="120" rx="24" fill="transparent" />
 
   <!-- Monogram Graphic -->
   <g transform="translate(60, 60)" filter="url(#glow)">
