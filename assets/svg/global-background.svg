@@ -5,18 +5,18 @@
 
     <!-- Ambient Mesh Gradients -->
     <radialGradient id="blob1" cx="30%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#D97706" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#D97706" stop-opacity="0" />
+      <stop offset="0%" stop-color="#AA7C11" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#AA7C11" stop-opacity="0" />
     </radialGradient>
     
     <radialGradient id="blob2" cx="70%" cy="70%" r="70%">
-      <stop offset="0%" stop-color="#FDE047" stop-opacity="0.1" />
-      <stop offset="100%" stop-color="#FDE047" stop-opacity="0" />
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0" />
     </radialGradient>
     
     <radialGradient id="blob3" cx="50%" cy="80%" r="60%">
-      <stop offset="0%" stop-color="#B45309" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#B45309" stop-opacity="0" />
+      <stop offset="0%" stop-color="#8B6508" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#8B6508" stop-opacity="0" />
     </radialGradient>
 
     <!-- Heavy Blur for liquid blending -->
